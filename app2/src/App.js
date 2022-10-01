@@ -12,6 +12,8 @@ function App() {
     >
       Sign up
     </a>
+    <div className='brand'>Deep-Cart</div> 
+       <div className='sub-nav'></div>
   </div>
   );
 }
